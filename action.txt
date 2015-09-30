@@ -1,6 +1,6 @@
 this is my second file 
-
-
+This is my 2nd commit.
+:wq
 
 
 
